@@ -1,3 +1,3 @@
 export function func(arg: number): string {
-	return "Mother Fucker"
+	return "Mother Fucker 1"
 }
